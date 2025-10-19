@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+streamlit
+requests
+numpy
+scikit-learn
+joblib
+cryptography
+plotly
+poliastro
+astropy
